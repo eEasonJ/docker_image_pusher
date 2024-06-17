@@ -1,6 +1,7 @@
 nginx
 #支持私库
 nacos/nacos-server
+nacos/nacos-server:2.0.3
 xhofe/alist:latest
 redis
 #支持指定架构
